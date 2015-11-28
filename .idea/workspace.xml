@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c23003f7-467b-4e0c-b073-bcd2e70648a4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/.env.example" afterPath="$PROJECT_DIR$/test/.env.example" />
+      <change type="DELETED" beforePath="G:\web\test.janciukas.lt\test\.env.example" afterPath="" />
     </list>
     <ignored path="test.janciukas.lt.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -275,7 +275,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/.env.example">
+    <entry file="file://$PROJECT_DIR$/test/.env">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.062176164" vertical-offset="0" max-vertical-offset="792">
           <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />

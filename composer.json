@@ -1,0 +1,12 @@
+{
+    "name": "vendor_name/package_name",
+    "description": "Lumen test application",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Paulius",
+            "email": "janciukas.paulius@gmail.com"
+        }
+    ]
+}
